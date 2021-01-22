@@ -11,7 +11,7 @@
       "version": ">=5.2.0"
     }
   ],
-  "homepage": "https://github.com/fssgh/x5webview-cordova-plugin-new#readme",
+  "homepage": "https://github.com/zhangshengjie/x5webview-cordova-plugin-new#readme",
   "keywords": [
     "cordova",
     "chromium",
@@ -24,7 +24,7 @@
   "name": "x5webview-cordova-plugin-new",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fssgh/x5webview-cordova-plugin-new.git"
+    "url": "git+https://github.com/zhangshengjie/x5webview-cordova-plugin-new.git"
   },
   "version": "1.0.0"
 }

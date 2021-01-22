@@ -2,10 +2,9 @@
 x5webview-cordova-plugin 是腾讯浏览服务(TBS)为cordova框架提供的用于android平台的cordova插件，旨在为android平台提供更好的webview浏览体验．
 
 一．接入步骤：
-1.向cordiva工程中添加x5webview插件,有如下两种方式：
+1.向cordiva工程中添加x5webview插件
 ```
-(1)cordova plugin add x5webview-cordova-plugin 
-(2)cordova plugin add https://github.com/runner525/x5webview-cordova-plugin.git
+cordova plugin add https://github.com/zhangshengjie/x5webview-cordova-plugin-new.git
 
 ```
 2.向ionic4,5的cordova工程中添加x5webview插件指引:
